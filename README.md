@@ -37,27 +37,27 @@ Cards will have 4 types:
 
 -   Attack (melee, ranged, magic damage)
     -   Icons for damage type: fire, water, earth, etc
-    -   Buff
-        -   Single Turn, Until Removed, X Turns
-    -   Debuff
-        -   Single Turn, Until Removed, X Turns
-    -   HP/AP restoration
-        -   Potion Card, Energy Card, etc
+-   Buff
+    -   Single Turn, Until Removed, X Turns
+-   Debuff
+    -   Single Turn, Until Removed, X Turns
+-   HP/AP restoration
+    -   Potion Card, Energy Card, etc
 
 Equipment will effect:
 
 -   HP/AP
-    -   Base Stats
-    -   Bonuses to card types
+-   Base Stats
+-   Bonuses to card types
 
 Equipment slots:
 
 -   Helmet
-    -   Armor
-    -   Weapon 1 (2hander takes both slots)
-    -   Weapon 2 (shield or offhand or dual wield)
-    -   2x Ring
-    -   1x Necklace
+-   Armor
+-   Weapon 1 (2hander takes both slots)
+-   Weapon 2 (shield or offhand or dual wield)
+-   2x Ring
+-   1x Necklace
 
 Equipment can have set bonuses
 
