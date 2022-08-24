@@ -1,6 +1,6 @@
 Start as a farmer who can go on quests. (this is just a setup)
 Upon starting game you "build" your character by picking stats. Male/Female is irrelvant as you are playing you.
-You have money earned from farming. (Again, setup somewhat irrelvant of source)
+You have money earned from farming. (Again, setup, somewhat irrelvant of source of the money. Just story element.)
 You have a couple options from main screen:
 	shop
 		equipment 
