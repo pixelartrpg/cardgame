@@ -7,9 +7,9 @@ You have money earned from farming. (Again, setup, somewhat irrelvant of source 
 You have a couple options from main screen:
 
 -   shop
-        -   equipment
-        -   prebuilt decks (starter deck)
-        -   cards
+    -   equipment
+    -   prebuilt decks (starter deck)
+    -   cards
 -   inn
     -   allows you to recover HP and AP
     -   change cards in your deck
