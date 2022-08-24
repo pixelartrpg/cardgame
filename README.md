@@ -41,7 +41,7 @@ Cards will have 4 types:
     -   Single Turn, Until Removed, X Turns
 -   Debuff
     -   Single Turn, Until Removed, X Turns
--   HP/AP restoration
+-   Consumables - These are 1 time use cards.
     -   Potion Card, Energy Card, etc
 
 Equipment will effect:
